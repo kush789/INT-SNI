@@ -1,0 +1,21 @@
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 1
+
+
+===========> ICMP TTL exceeded at hop 2 from IP 10.50.97.29
+
+
+===========> ICMP TTL exceeded at hop 3 from IP 10.50.97.215
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 4
+
+
+===========> ICMP TTL exceeded at hop 5 from IP 125.23.24.17
+
+
+===========> RST recevied at hop 6 from IP 207.246.147.191
+
+
+===========> RST recevied at hop 7 from IP 207.246.147.191
+
+

@@ -1,0 +1,67 @@
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 1
+
+
+===========> ICMP TTL exceeded at hop 2 from IP 10.50.97.29
+
+
+===========> ICMP TTL exceeded at hop 3 from IP 10.50.97.223
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 4
+
+
+===========> ICMP TTL exceeded at hop 5 from IP 125.23.24.17
+
+
+===========> ICMP TTL exceeded at hop 6 from IP 182.79.190.137
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 7
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 8
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 9
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 10
+
+
+===========> ICMP TTL exceeded at hop 11 from IP 149.6.115.162
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 12
+
+
+===========> ICMP TTL exceeded at hop 13 from IP 52.93.16.165
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 14
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 15
+
+
+===========> ICMP TTL exceeded at hop 16 from IP 52.93.16.171
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 17
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 18
+
+
+===========> TLS Alert found at hop 19 : level: 2 description: 40
+===========> TLS Alert found at hop 19 : level: 1 description: 0
+===========> TLS Alert found at hop 19 : level: 2 description: 40
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 20
+
+
+===========> TLS Alert found at hop 21 : level: 2 description: 40
+===========> TLS Alert found at hop 21 : level: 1 description: 0
+===========> TLS Alert found at hop 21 : level: 2 description: 40
+
+

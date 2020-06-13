@@ -1,0 +1,81 @@
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 1
+
+
+===========> ICMP TTL exceeded at hop 2 from IP 10.50.97.29
+
+
+===========> ICMP TTL exceeded at hop 3 from IP 10.50.97.215
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 4
+
+
+===========> ICMP TTL exceeded at hop 5 from IP 125.23.24.29
+
+
+===========> ICMP TTL exceeded at hop 6 from IP 182.79.152.0
+
+
+===========> ICMP TTL exceeded at hop 7 from IP 104.44.13.114
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 8
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 9
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 10
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 11
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 12
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 13
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 14
+
+
+===========> ICMP TTL exceeded at hop 15 from IP 104.44.11.114
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 16
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 17
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 18
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 19
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 20
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 21
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 22
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 23
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 24
+
+
+===========> No ICMP-TTLExceeded/TCP-RST/TLS-ServerHello/TLS-Alert at hop 25
+
+
+===========> RST recevied at hop 26 from IP 40.126.247.120
+
+
+===========> RST recevied at hop 27 from IP 40.126.247.120
+
+

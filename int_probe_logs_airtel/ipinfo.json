@@ -1,0 +1,27 @@
+{
+  "ip": "110.225.90.179",
+  "city": "Delhi",
+  "region": "Delhi",
+  "country": "IN",
+  "loc": "28.6519,77.2315",
+  "postal": "110001",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS45609",
+    "name": "Bharti Airtel Ltd. AS for GPRS Service",
+    "domain": "airtel.com",
+    "route": "110.225.80.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "BHARTI AIRTEL LTD.",
+    "domain": "airtel.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "hosting": false
+  }
+}
